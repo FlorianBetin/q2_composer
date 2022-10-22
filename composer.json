@@ -1,0 +1,10 @@
+{
+    "name": "flo/qcomposer",
+    "description": "quest two of composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
